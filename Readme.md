@@ -7,7 +7,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 #### [Course Syllabus](External%20Files/DevOps%20Nanodegree%20Syllabus.pdf)
 
 
-## Program Projects
+## Projects
 
 #### Project #1 - Deploy Static Website on AWS
 [Project Repository](https://github.com/Amnahalkhalil/Deploy-Static-Website-on-AWS) | [Project Rubric](External%20Files/Project%20Rubric%20%231%20-%20Deploy%20Static%20Website%20on%20AWS.pdf)
@@ -31,10 +31,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 
 
 
-## Certificate of Completion
-
-
-[Confirm program](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
+## [Certificate of Completion](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
 
 ![image](External%20Files/DevOps%20Engineer.png)
 
