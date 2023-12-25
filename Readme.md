@@ -21,7 +21,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 
 #### Project #3 - Operationalizing a Co-working Space Service
 [Project Repository](https://github.com/Amnahalkhalil/Operationalizing-a-Coworking-Space-Microservice) | [Project Rubric](External%20Files/Project%20Rubric%20%233%20-%20Operationalizing%20a%20Coworking%20Space%20Microservice.pdf)
-> Implement your understanding of Docker, ECR, CodeBuild, and Kubernetes to take an existing project into a production-ready Kubernetes environment in AWS
+> Implement your understanding of Docker, ECR, CodeBuild, and Kubernetes to take an existing project into a production-ready Kubernetes environment in AWS.
 
 
 #### Project #4 - Movie Picture Pipeline
