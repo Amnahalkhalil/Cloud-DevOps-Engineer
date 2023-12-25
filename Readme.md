@@ -29,7 +29,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 > In this project, you will demonstrate your CI/CD and GitHub Actions skills by creating CI/CD pipelines for provided frontend and backend applications.
 
 
----
+
 
 ## Certificate of Completion
 
@@ -40,4 +40,3 @@ Operationalize infrastructure at scale and deliver applications and services at 
 [Confirm program ](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
 
 
----
