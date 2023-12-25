@@ -34,9 +34,9 @@ Operationalize infrastructure at scale and deliver applications and services at 
 ## Certificate of Completion
 
 
+[Confirm program](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
 
 ![image](External%20Files/DevOps%20Engineer.png)
 
-[Confirm program ](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
 
 
