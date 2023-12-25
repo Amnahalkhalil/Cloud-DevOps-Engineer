@@ -6,6 +6,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 
 #### [Course Syllabus](External%20Files/DevOps%20Nanodegree%20Syllabus.pdf)
 
+---
 
 ## Program Projects
 
@@ -31,7 +32,7 @@ Operationalize infrastructure at scale and deliver applications and services at 
 
 ---
 
-## [Certificate of Completion](https://graduation.udacity.com/confirm/NMLGR26X)
+## [Certificate of Completion](https://graduation.udacity.com/confirm/e/e367bb52-5651-11ee-abf8-abebd547d3c6)
 
 ![image](External%20Files/DevOps%20Engineer.png)
 
